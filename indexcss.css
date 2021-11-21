@@ -1,0 +1,22 @@
+.details-wrapper{
+    background:#F2F7F5;
+    color:#00473E;
+}
+
+.projects-wrapper{
+    background:#F2F7F5;
+    color:#00473E;
+    min-height:100vh;
+}
+
+.topname,.textcolor{
+    color:#00473E;
+}
+
+.desc{
+    color:#475D5B;
+}
+
+.body{
+    background-color: #F2F7F5;
+}
