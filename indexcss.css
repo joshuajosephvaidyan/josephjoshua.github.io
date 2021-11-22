@@ -17,6 +17,14 @@
     color:#475D5B;
 }
 
-.body{
-    background-color: #F2F7F5;
+body{
+    background: #F2F7F5;
+}
+
+a{
+    text-decoration: none;
+}
+
+.ds{
+    background: #F2F7F5;
 }
